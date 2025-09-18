@@ -18,7 +18,7 @@ Dionisus is a demo application designed to streamline the creation of restaurant
 - Export your menu as a PDF or share it with your team.
 
 ## License
-This software is proprietary and distributed under an End-User License Agreement (EULA). Unauthorized copying, modification, or distribution is strictly prohibited. For full terms, see the [EULA](LICENSE.txt) included with the installer.
+This software is proprietary and distributed under an End-User License Agreement (**EULA**). Unauthorized copying, modification, or distribution is strictly prohibited. For full terms, see the [EULA](LICENSE.txt) included with the installer.
 
 ## Contact
-For support or inquiries, contact [dionysuservices@gmail.com](mailto:dionysuservices@gmail.com).
+For support or inquiries, contact **dionysuservices@gmail.com**.
